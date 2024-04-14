@@ -1,7 +1,3 @@
-Here's the README file for your tkinter calculator application:
-
----
-
 # Tkinter Calculator
 
 This is a simple calculator application built using Python's tkinter library. It provides various mathematical operations and functions.
