@@ -44,7 +44,3 @@ python your_file_name.py
 ## Contributors
 
 - Nagulapally Bhargavi - https://github.com/bhargavi852004
-
----
-
-Feel free to modify and expand upon this README as needed. Let me know if you need any further assistance!
